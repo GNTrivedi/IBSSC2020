@@ -7,8 +7,8 @@ Repository for supplementary data required to reproduce the results of the paper
   3) _scopus.ris_ - RIS format without abstract of research publications
   4) _scopus_abs.bib_ - Bibtex format with abstract of research publications
   5) _scopus_abs.csv_ - csv file format with abstract of research publications
-* The list of _keywords_ <merged keywords> are provided in the **thesaurus_p2p.txt** file
+* The list of _keywords_ <merged keywords> are provided in the **thesaurus_p2p.txt** file- **Analysis** folder
+* The attributes are available in the **p2p_map.txt** file- **Analysis** folder 
 * The original images of _Figure 1_ are available in **Figures** folder
-* The attributes are available in the **p2p_map.txt** file
   
 _Open-Source biblography analysis tool VOSViewer (https://www.vosviewer.com/) is used to construct and visualize the bibliometric networks._ 
