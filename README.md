@@ -11,4 +11,4 @@ Repository for supplementary data required to reproduce the results of the paper
 * The original images of Figure 1 are available in 'Figures' folder
 * The attributes are available in the 'p2p_map.txt' file
   
-* Open-Source biblography analysis tool VOSViewer (https://www.vosviewer.com/) is used to construct and visualize the bibliometric networks.* 
+_Open-Source biblography analysis tool VOSViewer (https://www.vosviewer.com/) is used to construct and visualize the bibliometric networks._ 
