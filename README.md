@@ -16,6 +16,6 @@ Repository for supplementary data required to reproduce the results of the paper
 * The original images of _Figure 1_ are available in **Figures** folder
 
 ![Figure 1b: Linkages between keywords with OCCURANCE >= 3](/Figures/p2p.png)
-![Figure 1c: Chronology of research publications having keywords with OCCURANCE >= 3](/Figures/p2p.png)
+![Figure 1c: Chronology of research publications having keywords with OCCURANCE >= 3](/Figures/p2p_pub_year.png)
  
 _Open-Source biblography analysis tool VOSViewer (https://www.vosviewer.com/) is used to construct and visualize the bibliometric networks._ 
