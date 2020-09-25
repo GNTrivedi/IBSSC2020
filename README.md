@@ -13,7 +13,7 @@ Repository for supplementary data required to reproduce the results of the paper
 * The list of _keywords_ <merged keywords> are provided in the **thesaurus_p2p.txt** file- **Analysis** folder
 
 * The attributes are available in the **p2p_map.txt** file- **Analysis** folder 
-* The original images of _Figure 1_ are available in **Figures** folder
+* The original figures of paper are available in **Figures** folder
 
 ![Figure 1b: Linkages between keywords with OCCURANCE >= 3](/Figures/p2p.png)
 ![Figure 1c: Chronology of research publications having keywords with OCCURANCE >= 3](/Figures/p2p_pub_year.png)
