@@ -8,7 +8,7 @@ Repository for supplementary data required to reproduce the results of the paper
   4) _scopus_abs.bib_ - Bibtex format with abstract of research publications
   5) _scopus_abs.csv_ - csv file format with abstract of research publications
 
-![Figure 1a: Literature search flow and keywords extraction](/Figures/lit_search.pdf)
+![Figure 1a: Literature search flow and keywords extraction](/Figures/lit_search.png)
 
 * The list of _keywords_ <merged keywords> are provided in the **thesaurus_p2p.txt** file
 * The attributes are available in the **p2p_map.txt** file 
