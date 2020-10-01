@@ -1,0 +1,195 @@
+﻿label	replace by
+agent-based simulation	game theory
+aggregator	p2p market
+architecture	system architectures
+auction theory	p2p market
+battery storage	energy storage
+bidding strategy	p2p market
+bilateral contract	p2p market
+bilateral contracts	p2p market
+bitcoin	blockchain
+block chain	blockchain
+block lattice	blockchain
+block-free ledger	blockchain
+blockchain (bc)	blockchain
+blockchain systems	blockchain
+blockchain technology	blockchain
+blockchain.	blockchain
+blokchain	blockchain
+carbonbc	blockchain
+climate change	sustainability
+climate finance	energy economics
+climate finance flows	energy economics
+climate ledger initiative	blockchain
+cloud computing	distributed computing
+co-simulation	system architectures
+coalition game	game theory
+community-based energy market	p2p market
+consensus	consensus mechanism
+consensus algorithm	consensus mechanism
+consensus ledger	consensus mechanism
+consortium blockchain	blockchain
+consumer	consumers
+contract theory	game theory
+credit rating	energy economics
+cryptography	blockchain
+curtailment	energy economics
+cybersecurity	"security, privacy and trust"
+dag-based distributed ledger	blockchain
+data security	"security, privacy and trust"
+decentralised autonomous organisations	smart community
+decentralised energy system	der
+decentralised market	p2p market
+decentralization	system architectures
+decentralized	system architectures
+decentralized energy trading	p2p trading
+decentralized ledger	blockchain
+decentralized trading	p2p trading
+demand	consumer demand
+demand response	power systems
+demand side flexibility	power systems
+demand side management (dsm)	power systems
+digital ledger	blockchain
+directed acyclic graph	blockchain
+distributed applications	distributed computing
+distributed energy resource	der
+distributed energy resources	der
+distributed energy resources (der)	der
+distributed energy resources (ders)	der
+distributed energy sources	der
+distributed generation	der
+distributed ledger	blockchain
+distributed ledger technologies	blockchain
+distributed ledger technology	blockchain
+distributed ledgers	blockchain
+distributed power optimization	distributed computing
+distributed trading system	p2p market
+distribution grid	power systems
+distribution network	power systems
+distribution networks	power systems
+double auction	p2p market
+dso	power systems
+dynamic energy resources	der
+electric vehicle	electric vehicles
+electricity trading	p2p trading
+energy blockchain	blockchain
+energy business model	energy economics
+energy cost	energy economics
+energy crowdsourcing	p2p trading
+energy decentralisation	p2p network
+energy exchange	p2p market
+energy finance	energy economics
+energy internet	p2p network
+energy market	p2p market
+energy markets	p2p market
+energy policy	policy and regulation
+energy routing	p2p network
+energy trading	p2p trading
+energy transactions	p2p trading
+energy transition	policy and regulation
+energy-trading	p2p trading
+environmental sustainability	sustainability
+fair incentive mechanisms	p2p market
+functional encryption	"security, privacy and trust"
+gamification	human computer interaction
+hash value	blockchain
+hashgraph	blockchain
+hyper ledger	blockchain
+hyperledger composer rest server	blockchain
+hyperledger fabric	blockchain
+intergrid	system architectures
+industrial internet of things (iiot)	industry 4.0
+industries	industry 4.0
+internet of energy	p2p network
+internet of things	iot
+iot devices	iot
+iota	iot
+load	consumer demand
+load management	energy management
+local electricity market	p2p market
+local electricity storage	energy storage
+local energy market	p2p market
+local energy markets	p2p market
+local market	p2p market
+local market pricing	p2p market
+market design	p2p market
+matching market	p2p market
+micro-grid	microgrid
+microgrid energy market	p2p market
+microgrids	microgrid
+multi-layer energy model architecture	system architectures
+multi-microgrid system	microgrid
+multi-settlement market	p2p market
+multidimensional willingness	p2p market
+network architecture	system architectures
+network loss	energy economics
+network planning	energy economics
+optimal power flow	power systems
+optimization	power systems
+p2p electricity market	p2p market
+p2p energy trade	p2p trading
+p2p energy trading	p2p trading
+p2p trading	p2p trading
+paris climate agreement	policy and regulation
+peer to peer energy trading	p2p trading
+peer to peer energy trading platform	p2p trading
+peer to peer trading	p2p trading
+peer-to-peer (p2p) energy management	energy management
+peer-to-peer (p2p) energy trading	p2p trading
+peer-to-peer energy trading	p2p trading
+peer-to-peer market	p2p market
+peer-to-peer markets	p2p market
+peer-to-peer network	p2p network
+peer-to-peer networks	p2p network
+peer-to-peer trade	p2p trading
+peer-to-peer trading	p2p trading
+peer-to-peer transactions	p2p trading
+peer-to-peer	
+plug-in hybrid electric vehicle (phevs)	electric vehicles
+pow consensus	consensus mechanism
+power quality	power systems
+power systems security	"security, privacy and trust"
+price of anarchy	game theory
+privacy	"security, privacy and trust"
+privacy protection	"security, privacy and trust"
+proof of concept	proof-of-concept
+proof of time	consensus mechanism
+proof-of- retrievability	consensus mechanism
+prosumer	prosumers
+raspberry pi	iot
+renewable energy	der
+renewable energy cooperative	smart community
+renewable energy sources	der
+sdn	system architectures
+security and privacy	"security, privacy and trust"
+security	"security, privacy and trust"
+security and transparency	"security, privacy and trust"
+self sustainable community	smart community
+sharing economy	innovation ecosystem
+smart charging	energy management
+smart city	innovation ecosystem
+smart contract	blockchain
+smart contracts	blockchain
+smart energy	energy management
+smart grid	smartgrid
+smart grid communications	smartgrid
+smart grids	smartgrid
+smart home	innovation ecosystem
+smart metering	smartgrid
+stackelberg game	game theory
+storage	energy storage
+sustainable energy	sustainability
+sustainable hci	human computer interaction
+sybil attack	"security, privacy and trust"
+tangle	blockchain
+trading	p2p trading
+trading network	p2p network
+transactional energy	p2p trading
+transactive energy	p2p trading
+transparency	"security, privacy and trust"
+trust	"security, privacy and trust"
+user-centered design	system architectures
+vehicle-to-grid	smartgrid
+virtual layer	system architectures
+voltage violation	power systems
+wireless sensor networks	system architectures
